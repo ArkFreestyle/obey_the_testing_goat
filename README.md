@@ -1,0 +1,1 @@
+Learning about Test Driven Development (TDD) as I follow the book "Obey The Testing Goat", and build a simple Django application.
